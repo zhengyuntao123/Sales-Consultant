@@ -7,5 +7,5 @@ The project includes five parts:
 4. Based on LangChain RetrievalQA, created a sales bot implementing RAG(Retrival Augmented Generation)
 5. Implemented Gradio GUI
 
-#Run
+# Run
 python sales_chatbot.py
