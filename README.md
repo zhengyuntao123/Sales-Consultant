@@ -1,5 +1,5 @@
 # Sales-Consultant
-A Sales-Consultant Based on LangChain.
+A sales-consultant based on LangChain. 
 The project includes five parts:
 1. Generated sales QA by GPT-4 using "GPT-4 Sales Phrases Prompt.txt"
 2. Utilized CharacterTextSplitter to split into documents
